@@ -1,0 +1,11 @@
+/* $antra: rgb(29, 31, 33);
+
+
+.navbar {
+    display: flex;
+    background-color: rgba($antra, 0.95);
+} */
+
+.test{
+    border: 10px solid white;
+}

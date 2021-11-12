@@ -1,0 +1,12 @@
+
+body{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(240, 30, 11, 0.3)), url("../imgs/FOOD\ TRUCK\ -\ Gumbo\ Mambo.jpg");
+  background-size: cover;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  margin-top: 30vh;
+}
