@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/index.css"],"names":[],"mappings":"AAAA,KACE,wJAAwI,CACxI,qBAAsB,CACtB,YACF","file":"main.323edc90.chunk.css","sourcesContent":["body{\n  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(194, 23, 8, 0.3)), url(\"../imgs/FOOD\\ TRUCK\\ -\\ Gumbo\\ Mambo.jpg\");\n  background-size: cover;\n  height: 100vh;\n}"]}
