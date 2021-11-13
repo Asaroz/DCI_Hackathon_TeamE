@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/DCI_Hackathon_TeamE/static/css/main.36f0d6c7.chunk.css",
-    "main.js": "/DCI_Hackathon_TeamE/static/js/main.87c1266d.chunk.js",
-    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.87c1266d.chunk.js.map",
+    "main.css": "/DCI_Hackathon_TeamE/static/css/main.b98719ab.chunk.css",
+    "main.js": "/DCI_Hackathon_TeamE/static/js/main.611bafda.chunk.js",
+    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.611bafda.chunk.js.map",
     "runtime-main.js": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js",
     "runtime-main.js.map": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js.map",
     "static/js/2.8833cd6e.chunk.js": "/DCI_Hackathon_TeamE/static/js/2.8833cd6e.chunk.js",
     "static/js/2.8833cd6e.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.8833cd6e.chunk.js.map",
     "index.html": "/DCI_Hackathon_TeamE/index.html",
-    "static/css/main.36f0d6c7.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.36f0d6c7.chunk.css.map",
+    "static/css/main.b98719ab.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.b98719ab.chunk.css.map",
     "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo V2.31d6b3d3.jpg"
+    "static/media/index.scss": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo V2.31d6b3d3.jpg",
+    "static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png": "/DCI_Hackathon_TeamE/static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4c9a1675.js",
     "static/js/2.8833cd6e.chunk.js",
-    "static/css/main.36f0d6c7.chunk.css",
-    "static/js/main.87c1266d.chunk.js"
+    "static/css/main.b98719ab.chunk.css",
+    "static/js/main.611bafda.chunk.js"
   ]
 }
