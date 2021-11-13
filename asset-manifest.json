@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/DCI_Hackathon_TeamE/static/css/main.3ca59cfd.chunk.css",
-    "main.js": "/DCI_Hackathon_TeamE/static/js/main.d2b24a1e.chunk.js",
-    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.d2b24a1e.chunk.js.map",
+    "main.css": "/DCI_Hackathon_TeamE/static/css/main.dc430862.chunk.css",
+    "main.js": "/DCI_Hackathon_TeamE/static/js/main.3db5dfcd.chunk.js",
+    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.3db5dfcd.chunk.js.map",
     "runtime-main.js": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js",
     "runtime-main.js.map": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js.map",
     "static/css/2.383c0125.chunk.css": "/DCI_Hackathon_TeamE/static/css/2.383c0125.chunk.css",
-    "static/js/2.39737738.chunk.js": "/DCI_Hackathon_TeamE/static/js/2.39737738.chunk.js",
-    "static/js/2.39737738.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.39737738.chunk.js.map",
+    "static/js/2.df004f50.chunk.js": "/DCI_Hackathon_TeamE/static/js/2.df004f50.chunk.js",
+    "static/js/2.df004f50.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.df004f50.chunk.js.map",
     "index.html": "/DCI_Hackathon_TeamE/index.html",
     "static/css/2.383c0125.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.3ca59cfd.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.3ca59cfd.chunk.css.map",
-    "static/js/2.39737738.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.39737738.chunk.js.LICENSE.txt",
+    "static/css/main.dc430862.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.dc430862.chunk.css.map",
+    "static/js/2.df004f50.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.df004f50.chunk.js.LICENSE.txt",
     "static/media/Boiled Crawfish.6f4c8890.jpg": "/DCI_Hackathon_TeamE/static/media/Boiled Crawfish.6f4c8890.jpg",
+    "static/media/FOOD TRUCK - Gumbo Mambo - PNG for movement.b30b7b96.png": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo - PNG for movement.b30b7b96.png",
     "static/media/index.scss": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo V2.31d6b3d3.jpg",
+    "static/media/Harvest.7fdee87f.jpg": "/DCI_Hackathon_TeamE/static/media/Harvest.7fdee87f.jpg",
     "static/media/Logo Gumbo Mambo - Mascot.32ae9be6.png": "/DCI_Hackathon_TeamE/static/media/Logo Gumbo Mambo - Mascot.32ae9be6.png",
-    "static/media/nav.scss": "/DCI_Hackathon_TeamE/static/media/Potato Chips.6d62a0cb.ttf",
-    "static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png": "/DCI_Hackathon_TeamE/static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png"
+    "static/media/home.scss": "/DCI_Hackathon_TeamE/static/media/Potato Chips.6d62a0cb.ttf",
+    "static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png": "/DCI_Hackathon_TeamE/static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png",
+    "static/media/lotsaShrimps.76bf416a.jpg": "/DCI_Hackathon_TeamE/static/media/lotsaShrimps.76bf416a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c9a1675.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.39737738.chunk.js",
-    "static/css/main.3ca59cfd.chunk.css",
-    "static/js/main.d2b24a1e.chunk.js"
+    "static/js/2.df004f50.chunk.js",
+    "static/css/main.dc430862.chunk.css",
+    "static/js/main.3db5dfcd.chunk.js"
   ]
 }
