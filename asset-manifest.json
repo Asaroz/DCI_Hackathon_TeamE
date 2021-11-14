@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DCI_Hackathon_TeamE/static/css/main.63024dd5.chunk.css",
-    "main.js": "/DCI_Hackathon_TeamE/static/js/main.f5f8ddba.chunk.js",
-    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.f5f8ddba.chunk.js.map",
+    "main.css": "/DCI_Hackathon_TeamE/static/css/main.9bb950ae.chunk.css",
+    "main.js": "/DCI_Hackathon_TeamE/static/js/main.2f0a3d4c.chunk.js",
+    "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.2f0a3d4c.chunk.js.map",
     "runtime-main.js": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js",
     "runtime-main.js.map": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js.map",
     "static/css/2.383c0125.chunk.css": "/DCI_Hackathon_TeamE/static/css/2.383c0125.chunk.css",
-    "static/js/2.0a5a126f.chunk.js": "/DCI_Hackathon_TeamE/static/js/2.0a5a126f.chunk.js",
-    "static/js/2.0a5a126f.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.0a5a126f.chunk.js.map",
+    "static/js/2.9b7c9596.chunk.js": "/DCI_Hackathon_TeamE/static/js/2.9b7c9596.chunk.js",
+    "static/js/2.9b7c9596.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.9b7c9596.chunk.js.map",
     "index.html": "/DCI_Hackathon_TeamE/index.html",
     "static/css/2.383c0125.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.63024dd5.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.63024dd5.chunk.css.map",
-    "static/js/2.0a5a126f.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.0a5a126f.chunk.js.LICENSE.txt",
+    "static/css/main.9bb950ae.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.9bb950ae.chunk.css.map",
+    "static/js/2.9b7c9596.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.9b7c9596.chunk.js.LICENSE.txt",
     "static/media/1.41ca31a2.jpg": "/DCI_Hackathon_TeamE/static/media/1.41ca31a2.jpg",
     "static/media/2.fd7b26ca.jpg": "/DCI_Hackathon_TeamE/static/media/2.fd7b26ca.jpg",
     "static/media/3.fd9ad96e.jpg": "/DCI_Hackathon_TeamE/static/media/3.fd9ad96e.jpg",
@@ -26,6 +26,7 @@
     "static/media/FOOD TRUCK - Gumbo Mambo - PNG for movement.5cb4cdd9.png": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo - PNG for movement.5cb4cdd9.png",
     "static/media/index.scss": "/DCI_Hackathon_TeamE/static/media/FOOD TRUCK - Gumbo Mambo V2.31d6b3d3.jpg",
     "static/media/Footer.5f16fc4f.png": "/DCI_Hackathon_TeamE/static/media/Footer.5f16fc4f.png",
+    "static/media/GUMBO NR 5.9c08a75d.mp3": "/DCI_Hackathon_TeamE/static/media/GUMBO NR 5.9c08a75d.mp3",
     "static/media/Harvest.7fdee87f.jpg": "/DCI_Hackathon_TeamE/static/media/Harvest.7fdee87f.jpg",
     "static/media/Hero-Picture 1 - without text.da0080fd.jpg": "/DCI_Hackathon_TeamE/static/media/Hero-Picture 1 - without text.da0080fd.jpg",
     "static/media/Hero-Picture 2 - without text.8d5ffa4b.jpg": "/DCI_Hackathon_TeamE/static/media/Hero-Picture 2 - without text.8d5ffa4b.jpg",
@@ -36,8 +37,13 @@
     "static/media/Hero-Picture 7 - without text.644ea8f7.gif": "/DCI_Hackathon_TeamE/static/media/Hero-Picture 7 - without text.644ea8f7.gif",
     "static/media/Hero-Picture 8 - without text.bbef93ba.gif": "/DCI_Hackathon_TeamE/static/media/Hero-Picture 8 - without text.bbef93ba.gif",
     "static/media/Hero-Picture 9 - without text.933da7db.gif": "/DCI_Hackathon_TeamE/static/media/Hero-Picture 9 - without text.933da7db.gif",
+    "static/media/Insta Story.caafa94d.mp4": "/DCI_Hackathon_TeamE/static/media/Insta Story.caafa94d.mp4",
     "static/media/Logo Gumbo Mambo - Mascot.32ae9be6.png": "/DCI_Hackathon_TeamE/static/media/Logo Gumbo Mambo - Mascot.32ae9be6.png",
     "static/media/menu.scss": "/DCI_Hackathon_TeamE/static/media/Potato Chips.6d62a0cb.ttf",
+    "static/media/Review 1.6016dcd9.png": "/DCI_Hackathon_TeamE/static/media/Review 1.6016dcd9.png",
+    "static/media/Review 2.0cab941a.png": "/DCI_Hackathon_TeamE/static/media/Review 2.0cab941a.png",
+    "static/media/Review 3.34c158a5.png": "/DCI_Hackathon_TeamE/static/media/Review 3.34c158a5.png",
+    "static/media/Review 4.cf319fa1.png": "/DCI_Hackathon_TeamE/static/media/Review 4.cf319fa1.png",
     "static/media/berlin.e61eeee3.PNG": "/DCI_Hackathon_TeamE/static/media/berlin.e61eeee3.PNG",
     "static/media/App.scss": "/DCI_Hackathon_TeamE/static/media/hintergrund.8780fba3.jpg",
     "static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png": "/DCI_Hackathon_TeamE/static/media/logo_gumbo_mambo_-_logo_website_-_final.d8105771.png",
@@ -46,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.4c9a1675.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.0a5a126f.chunk.js",
-    "static/css/main.63024dd5.chunk.css",
-    "static/js/main.f5f8ddba.chunk.js"
+    "static/js/2.9b7c9596.chunk.js",
+    "static/css/main.9bb950ae.chunk.css",
+    "static/js/main.2f0a3d4c.chunk.js"
   ]
 }
