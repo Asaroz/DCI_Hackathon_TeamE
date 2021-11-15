@@ -1,0 +1,206 @@
+@font-face {
+    font-family: 'PotatoFont';
+    /*a name to be used later*/
+    src: url('../fonts/Potato\ Chips.ttf');
+    /*URL to font*/
+}
+
+$red: #ff3333;
+
+
+
+.carouselContainer img {
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+
+}
+
+.headText {
+    position: relative; 
+    left: 15vw;
+    width: 50%;
+    display: flex;
+    flex-flow: column;
+    color: white;
+    justify-content: center;
+
+    .headTtitle {
+        font-family: PotatoFont;
+        font-size: 40px;
+        margin-top: 10vh;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .headCatchContainer {
+        padding-bottom: 100px;
+        display: flex;
+
+        .headCatch {
+            font-family: PotatoFont;
+            padding: 20px;
+            width: 70%;
+            height: 20vh;
+            font-size: 20px;
+            div {
+                padding: 50px;
+            }
+        }
+
+        div {
+            display: flex;
+            flex-flow: column;
+
+            img {
+                position: relative;
+                top: 20px;
+                right: -20px;
+                height: 20vh;
+                object-fit: contain;
+                width: 100%;
+                z-index: 1;
+                transition: 1s;
+                opacity: 0;
+                box-shadow: 5px 5px 15px 5px #000000;
+            }
+
+            .img1 {
+                transform: rotate(-15deg);
+                z-index: 2;
+            }
+
+            .img2 {
+                transform: rotate(20deg);
+                transition-delay: 0.5s;
+            }
+        }
+
+    }
+
+}
+.hoverContainer{
+    width: 200%;
+    position: relative;
+    right:15vw;
+}
+
+.hoverContainer:hover {
+    .headCatchContainer {
+        div {
+            display: flex;
+            flex-flow: column;
+
+            .img1 {
+                opacity: 1;
+                transform: rotate(-15deg);
+                position: relative;
+                top: 20px;
+                right: 40px;
+                height: 20vh;
+                object-fit: contain;
+                width: 100%;
+                z-index: 1;
+            }
+
+            .img2 {
+                opacity: 1;
+                transform: rotate(20deg);
+                position: relative;
+                top: 20px;
+                right: 40px;
+                height: 20vh;
+                object-fit: contain;
+                width: 100%;
+            }
+        }
+    }
+}
+
+.carouselText {
+    font-family: PotatoFont;
+
+    div {
+        font-size: 600%;
+    }
+    p{
+        font-size: 200%;
+    }
+}
+
+.head1 {
+    div {
+        font-size: 400%;
+        position: relative;
+        right: 20%;
+    }
+}
+
+.head2 {
+    div {
+        color: white;
+        position: relative;
+        left: 40%;
+    }
+
+}
+
+.head3{
+    margin-bottom: 40%;
+    div {
+        font-size: 400%;
+        color: white;
+        position: relative;
+        left: 30%;
+        top:90%;
+
+    }
+    p{
+        font-size: 200%;
+        position: relative;
+        left: 20%;
+    }
+}
+.head4{
+    margin-bottom: 40%;
+    div {
+        font-size: 400%;
+        color: white;
+        position: relative;
+        left: 30%;
+        top:90%;
+
+    }
+    p{
+        font-size: 200%;
+        position: relative;
+        left: 40%;
+    }
+}
+.head5{
+    margin-bottom: 30%;
+    
+    div {
+        font-size: 800%;
+        position: relative;
+        left: 20%;
+        top:80%;
+        color: #ff3333;
+    }
+    p{
+        font-size: 200%;
+        position: relative;
+        left: 35%;
+        color: #ff3333;
+    }
+}
+
+
+.head6 {
+    div {
+        color: white;
+        position: relative;
+        left: 40%;
+    }
+
+}

@@ -1,0 +1,22 @@
+.orderRow{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 20px;
+    margin: auto;
+    :nth-child(1n){
+        width: 30%;
+    }
+}
+.buttonHolder{
+    display:flex;
+    justify-content: space-evenly;
+}
+.totalSum{
+    display:flex;
+    font-size: 25px;
+    margin-left: 10%;
+    p{
+        padding-left: 140px;
+    }
+}

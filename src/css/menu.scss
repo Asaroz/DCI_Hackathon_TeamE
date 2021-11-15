@@ -1,0 +1,166 @@
+@font-face {
+    font-family: 'PotatoFont';
+    /*a name to be used later*/
+    src: url('../fonts/Potato\ Chips.ttf');
+    /*URL to font*/
+}
+
+.MenuHeader{
+    color: white;
+    font-size: 60px;
+    font-family: potatoFont;
+    width: 100%;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.menuWrapper{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.center {
+
+}
+
+
+.card {
+    width: 20vw;
+    height: 65vh;
+    background-color: rgba($color: #000000, $alpha: 0.0);
+     transform: scale(0.9);
+    
+}
+
+.front,
+.back {
+    border-radius: 5%;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    backface-visibility: hidden;
+    position: absolute;
+    transition: transform 0.6s linear;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.front img {
+    height: 100%;
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+}
+.crapSong{
+    position: relative;
+    object-fit: contain;
+    width: 15%;
+    right:-70%;
+    top: -250px;
+    transition: 1s;
+    
+}
+
+.crapSong:hover {
+        
+    transform: scale(1.3);
+}
+
+
+.front {
+    font-family: PotatoFont;
+    transform: perspective(600px) rotateY(0deg);
+    background-color: rgb(230, 230, 230);
+    div{
+        width: 100%;
+        position: fixed;
+        color: white;
+        background-color: rgba($color: #000000, $alpha: 0.2);
+        border-radius: 5%;
+        font-size: 50px;
+        z-index: 20;
+    }
+}
+
+.back {
+
+    padding: 20px;
+    transform: perspective(600px) rotateY(180deg);
+    background-color: rgb(218, 218, 218);
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    img{
+        border-radius: 10px;
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        margin: auto;
+    }
+    .menuTitle{
+        font-size: larger;
+        margin:auto;
+        width: 80%;
+        font-weight: bold;
+        text-align: center;
+    }
+    .priceOrder{
+        height: 100px;
+        color: black;
+        background-color: #9de020;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: large;
+        display:flex;
+        width: 100%;
+        justify-content: center;
+     
+        .menuPrice{
+            font-size: 30px;
+            padding-right: 20px;
+            text-align: center;
+            margin-top: 5%;
+        }
+        div{
+            font-size: 30px;
+            margin-top: 5%;
+        }
+    }
+
+    .menuIngredients{
+        margin:auto;
+        width: 80%;
+        font-weight: lighter;
+        text-align: center;
+    }
+    .menuDescription{
+        margin:auto;
+        width: 80%;
+        text-align: center;
+    }
+}
+
+.back-content {
+    width: 100%;
+    text-align: center;
+    color: #333333;
+}
+
+h2 {
+    margin-bottom: 20px;
+
+}
+
+span {
+    display: block;
+    font-size: 20px;
+
+}
+
+.card:hover > .front {
+    transform: perspective(600px) rotateY(-180deg);
+}
+.card:hover > .back {
+    transform: perspective(600px) rotateY(0deg);
+}

@@ -2,8 +2,33 @@
 $antra: rgb(29, 31, 33);
 
 .appBody{
+
   border: 3px solid black;
-  height: 200vh;
+
   width: 70vw;
-  background-color: rgba($antra, 0.95) ;
+  background-image: linear-gradient(to bottom, rgba($antra, 0.8), rgba($antra, 0.8)), url("../imgs/hintergrund.jpg");
+  box-shadow: 5px 5px 15px 5px #000000;
+  opacity: 1;
+ 
 }
+
+.mainBackGround{
+  margin-top: 30vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  .fullLogo{
+    margin-top: 20vh;
+    height: 20vh;
+    width: auto;
+    margin-bottom: 5vh;
+    object-fit: contain;
+  }
+  .footerImg{
+    width: 100%;
+  }
+}
+
+
+
+
