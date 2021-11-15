@@ -11,13 +11,14 @@ export function ModalButton() {
   const [locationModalShow, setLocationModalShow] = useState(false);
   const [activeButton, setActiveButton] = useState({});
   return <div className="buttonContainer">
-    <Button variant="danger" onClick={() => {
+    <Button className="ModalButtons" variant="danger" onClick={() => {
       setActiveButton("Chef")
       setChefModalShow(true)
+
     }}>
       Our Chef
     </Button>
-    <Button variant="danger" onClick={() => {
+    <Button className="ModalButtons" variant="danger" onClick={() => {
       setActiveButton("Location")
       setLocationModalShow(true)
     }}>

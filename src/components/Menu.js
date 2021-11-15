@@ -96,9 +96,12 @@ export function Menu(props) {
 
 
     return <>
-    
-        <p className="MenuHeader">Menu / Order Now</p> 
-        <Sound url={song}></Sound>
+
+            <p className="MenuHeader">Menu</p> 
+            <Sound url={song}></Sound>
+
+
+        
         <div className="menuWrapper">
 
             {menuArray.map((datenSatz) => {

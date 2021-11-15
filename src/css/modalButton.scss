@@ -17,7 +17,7 @@
 
 
 #contained-modal-title-vcenter{
-    font-family: PotatoFont;
+    font-family: Kanit;
     font-size: 40px;
     width: 100%;
     text-align: center;
@@ -25,6 +25,7 @@
 
 
 .ChefContainer .modal-content{
+    font-family: Kanit;
     color: white;
     border-radius: 30px;
     background: #293133;
@@ -37,7 +38,12 @@
     transform: scale(1.4);
   }
 
+
+  .ModalButtons{
+      transform: scale(1.5);
+  }
 .LocationBody{
+    font-family: Kanit;
     display: flex;
     overflow: visible;
     justify-content: space-between;
@@ -51,6 +57,7 @@
             height: 20px;
             width: 10%;
             z-index: 200;
+            border-radius: 10px;
         }
         .oneP{
             position: fixed;

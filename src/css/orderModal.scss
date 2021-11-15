@@ -1,3 +1,7 @@
+.ordersBody{
+    font-family: Kanit;
+}
+
 .orderRow{
     display: flex;
     justify-content: center;
@@ -19,4 +23,8 @@
     p{
         padding-left: 140px;
     }
+}
+.fa-trash-alt:hover{
+    color: red;
+    transition: 0.2s;
 }

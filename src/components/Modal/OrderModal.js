@@ -28,7 +28,7 @@ export default function ChefModal(props) {
           <div className="ordersBody">
                 {orders.map((order,id)=>{
 
-                    sum =sum + parseInt(order.price)
+                    sum =sum + parseFloat(order.price.toFixed(2))
                     return <div className={"orderRow row"+id}>
                         <div>{order.title}</div>
                         <div>{order.price + "€"}</div>
@@ -36,7 +36,7 @@ export default function ChefModal(props) {
                             let newArray = orders
                             newArray.splice(id,1)
                             setOrders(newArray)
-                            setToggle(toggle - parseInt(order.price))
+                            setToggle(toggle - parseFloat(order.price.toFixed(2)))
                             console.log("______"+toggle)
                             localStorage.setItem('orders',JSON.stringify(newArray))
                         }}></i></div>

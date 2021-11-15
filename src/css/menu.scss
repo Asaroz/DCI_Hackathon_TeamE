@@ -8,10 +8,11 @@
 .MenuHeader{
     color: white;
     font-size: 60px;
-    font-family: potatoFont;
+    font-family: Kanit;
     width: 100%;
     text-align: center;
     margin-top: 200px;
+
 }
 
 .menuWrapper{
@@ -53,23 +54,24 @@
     bottom: 0%;
 }
 .crapSong{
-    position: relative;
+
     object-fit: contain;
     width: 15%;
-    right:-70%;
-    top: -250px;
     transition: 1s;
-    
+    margin: auto;
 }
 
 .crapSong:hover {
         
     transform: scale(1.3);
 }
-
+.songContainer{
+    display: flex;
+    justify-content: center;
+}
 
 .front {
-    font-family: PotatoFont;
+    font-family: Kanit;
     transform: perspective(600px) rotateY(0deg);
     background-color: rgb(230, 230, 230);
     div{
@@ -84,7 +86,7 @@
 }
 
 .back {
-
+    font-family: Kanit;
     padding: 20px;
     transform: perspective(600px) rotateY(180deg);
     background-color: rgb(218, 218, 218);

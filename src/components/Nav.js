@@ -8,7 +8,7 @@ import logo from '../imgs/logo_gumbo_mambo_-_logo_website_-_final.png'
 
 
 export function Nav(props) {
-    const menuArray = [{name:"HOME",class:"homeId"},{name:"ABOUT US",class:"aboutId"},{name:"MENU/ORDER",class:"menuId"},{name:"REVIEWS",class:"homeId"}]
+    const menuArray = [{name:"HOME",class:"homeId"},{name:"ABOUT US",class:"aboutId"},{name:"MENU",class:"menuId"},{name:"REVIEWS",class:"homeId"}]
     const orders = props.orders
     const setOrders = props.setOrders
     const [shoppingModalShow, setShoppingModalShow] = useState(false);

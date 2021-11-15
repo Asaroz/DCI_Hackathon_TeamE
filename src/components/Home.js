@@ -26,9 +26,9 @@ export function Home() {
     const handleSelect = (selectedIndex, e) => {
         setIndex(selectedIndex);
     };
-
+     
     const images = [
-        { img: hero1, text1: "Visit Us Or Order Here", text2: "Made from locally sourced & fresh ingredients" ,class:"head1"},
+        { img: hero1, text1: "Cajun-vasion in your neighborhood!", text2: "Catch us or Order now" ,class:"head1"},
         { img: hero9, text1: "Spicy", text2: "", class:"head2" },
         { img: hero4, text1: "Holy Cajun Trinity", text2: "Onion + Celery + Green Pepper" , class:"head3"},
         { img: hero7, text1: "Freshly Cooked", text2: "from us to you in minutes" , class:"head4"},
@@ -63,16 +63,20 @@ export function Home() {
                 <div className="headCatchContainer">
                     <div className="headCatch">
                         <div>
-                            We bring the taste of New Orleans to your neighborhood. Our mouth watering Cajun dishes are especially crafted by our lead expert Chef Billy Giroux to satisfy your spicy cravings. Guaranteed, each bite is better than the last!
-
-                            <br />
-                            <br />
+                             We bring the authentic taste of New Orleans cuisine to your neighborhood. Our mouth watering Cajun dishes are especially crafted by our lead expert Chef Billy Giroux to satisfy your spicy cravings.
+                            <br/>
+                            <br/>
+                             Our special tangy sauce and carefully blended herbs and spices to give you just that perfect kick is our secret weapon. 9 carefully chosen recipes fit for that Berlin eclectic vibe will surely serve every preference out there. Our Food Truck team is there to bring you closer to that Mardi Gras feel, as you enjoy each and every taste of that delicious meal. Guaranteed, each bite is better than the last!
                             <br />
                             <br />
                             We follow our Farm to Table principle, making sure high quality, fresh  Ingredients make way to our kitchen from locally  sourced sustainable farmers and fishermen
+                            <br/>
+                            <br/>
+                          
                         </div>
                     </div>
                     <div>
+                        <img src={hero2} className="img0"></img>
                         <img src={harvesting} className="img1"></img>
                         <img src={shrimps} className="img2"></img>
                     </div>

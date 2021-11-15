@@ -38,7 +38,7 @@ export function Reviews(){
                 })}
             </Carousel>
         </div>
-        <video loop autoplay src={video} type="video/mp4"></video>
+        <video loop autoPlay src={video} type="video/mp4"></video>
     </div>
     </div>
 }

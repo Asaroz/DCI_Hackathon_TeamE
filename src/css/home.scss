@@ -26,7 +26,7 @@ $red: #ff3333;
     justify-content: center;
 
     .headTtitle {
-        font-family: PotatoFont;
+        font-family: Kanit;
         font-size: 40px;
         margin-top: 10vh;
         text-align: center;
@@ -34,13 +34,14 @@ $red: #ff3333;
     }
 
     .headCatchContainer {
-        padding-bottom: 100px;
+
         display: flex;
+        width: 130%;
 
         .headCatch {
-            font-family: PotatoFont;
+            font-family: Kanit;
             padding: 20px;
-            width: 70%;
+            width: 100%;
             height: 20vh;
             font-size: 20px;
             div {
@@ -57,7 +58,7 @@ $red: #ff3333;
                 top: 20px;
                 right: -20px;
                 height: 20vh;
-                object-fit: contain;
+                object-fit: cover;
                 width: 100%;
                 z-index: 1;
                 transition: 1s;
@@ -68,11 +69,12 @@ $red: #ff3333;
             .img1 {
                 transform: rotate(-15deg);
                 z-index: 2;
+                transition-delay: 0.5s;
             }
 
             .img2 {
                 transform: rotate(20deg);
-                transition-delay: 0.5s;
+                transition-delay: 1s;
             }
         }
 
@@ -80,7 +82,7 @@ $red: #ff3333;
 
 }
 .hoverContainer{
-    width: 200%;
+    width: 142%;
     position: relative;
     right:15vw;
 }
@@ -91,6 +93,18 @@ $red: #ff3333;
             display: flex;
             flex-flow: column;
 
+            .img0{
+                opacity: 1;
+                transform: rotate(7deg);
+                position: relative;
+                top: 20px;
+                right: 40px;
+                height: 20vh;
+                object-fit: cover;
+                width: 100%;
+                z-index: 0;
+            }
+
             .img1 {
                 opacity: 1;
                 transform: rotate(-15deg);
@@ -98,7 +112,7 @@ $red: #ff3333;
                 top: 20px;
                 right: 40px;
                 height: 20vh;
-                object-fit: contain;
+                object-fit: cover;
                 width: 100%;
                 z-index: 1;
             }
@@ -110,7 +124,7 @@ $red: #ff3333;
                 top: 20px;
                 right: 40px;
                 height: 20vh;
-                object-fit: contain;
+                object-fit: cover;
                 width: 100%;
             }
         }
@@ -118,21 +132,24 @@ $red: #ff3333;
 }
 
 .carouselText {
-    font-family: PotatoFont;
-
+    font-family: Kanit;
+    background: rgba($color: #000000, $alpha: 0.4);
     div {
         font-size: 600%;
+
     }
     p{
         font-size: 200%;
+        
     }
 }
 
 .head1 {
     div {
+        
         font-size: 400%;
         position: relative;
-        right: 20%;
+
     }
 }
 
@@ -140,46 +157,47 @@ $red: #ff3333;
     div {
         color: white;
         position: relative;
-        left: 40%;
     }
 
 }
 
 .head3{
     margin-bottom: 40%;
+    left: 30%;
+    top:90%;
     div {
         font-size: 400%;
         color: white;
         position: relative;
-        left: 30%;
-        top:90%;
+
 
     }
     p{
         font-size: 200%;
         position: relative;
-        left: 20%;
+
     }
 }
 .head4{
     margin-bottom: 40%;
+    left: 30%;
+    top:90%;
     div {
         font-size: 400%;
         color: white;
         position: relative;
-        left: 30%;
-        top:90%;
+
 
     }
     p{
         font-size: 200%;
         position: relative;
-        left: 40%;
+
     }
 }
 .head5{
     margin-bottom: 30%;
-    
+    background: rgba($color: #000000, $alpha: 0.0);
     div {
         font-size: 800%;
         position: relative;

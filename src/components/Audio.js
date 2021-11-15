@@ -28,7 +28,7 @@ const Player = ({ url }) => {
   const [playing, toggle] = useAudio(url);
 
   return (
-    <div>
+    <div className="songContainer">
       <img src={crap} className="crapSong" onClick={toggle}></img>
     </div>
   );
