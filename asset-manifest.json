@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DCI_Hackathon_TeamE/static/css/main.aa5313bf.chunk.css",
+    "main.css": "/DCI_Hackathon_TeamE/static/css/main.1d04757f.chunk.css",
     "main.js": "/DCI_Hackathon_TeamE/static/js/main.fe055fde.chunk.js",
     "main.js.map": "/DCI_Hackathon_TeamE/static/js/main.fe055fde.chunk.js.map",
     "runtime-main.js": "/DCI_Hackathon_TeamE/static/js/runtime-main.4c9a1675.js",
@@ -10,7 +10,7 @@
     "static/js/2.9b7c9596.chunk.js.map": "/DCI_Hackathon_TeamE/static/js/2.9b7c9596.chunk.js.map",
     "index.html": "/DCI_Hackathon_TeamE/index.html",
     "static/css/2.383c0125.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.aa5313bf.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.aa5313bf.chunk.css.map",
+    "static/css/main.1d04757f.chunk.css.map": "/DCI_Hackathon_TeamE/static/css/main.1d04757f.chunk.css.map",
     "static/js/2.9b7c9596.chunk.js.LICENSE.txt": "/DCI_Hackathon_TeamE/static/js/2.9b7c9596.chunk.js.LICENSE.txt",
     "static/media/1.41ca31a2.jpg": "/DCI_Hackathon_TeamE/static/media/1.41ca31a2.jpg",
     "static/media/2.fd7b26ca.jpg": "/DCI_Hackathon_TeamE/static/media/2.fd7b26ca.jpg",
@@ -53,7 +53,7 @@
     "static/js/runtime-main.4c9a1675.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.9b7c9596.chunk.js",
-    "static/css/main.aa5313bf.chunk.css",
+    "static/css/main.1d04757f.chunk.css",
     "static/js/main.fe055fde.chunk.js"
   ]
 }
